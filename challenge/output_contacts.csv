@@ -1,0 +1,31 @@
+company_name,mailing_address,contact_name,contact_role,contact_email_or_phone,confidence_score,source,needs_human_review
+Cedar Ridge Plumbing LLC,"4821 Maple Ave, Lincoln, NE 68504",NULL,NULL,NULL,0,NONE,true
+Bayview Auto Repair,"129 Harbor St, Tacoma, WA 98402",NULL,NULL,NULL,0,NONE,true
+Sunbelt Roofing Co,"7714 Desert Bloom Rd, Mesa, AZ 85207",NULL,NULL,NULL,0,NONE,true
+Riverside Print & Sign,"302 W 3rd St, Davenport, IA 52801",NULL,NULL,NULL,0,NONE,true
+Magnolia Family Dental,"1188 Peachtree Ln, Macon, GA 31201",NULL,NULL,NULL,0,NONE,true
+Northgate HVAC Services,"56 Industrial Pkwy, Akron, OH 44310",NULL,NULL,NULL,0,NONE,true
+Pioneer Landscaping Inc,"940 Prairie View Dr, Boise, ID 83704",NULL,NULL,NULL,0,NONE,true
+Harbor Light Electric,"22 Dockside Ave, New Bedford, MA 02740",NULL,NULL,NULL,0,NONE,true
+Summit Pest Control,"6310 Highland Blvd, Reno, NV 89506",NULL,NULL,NULL,0,NONE,true
+Greenfield Catering Group,"415 Orchard St, Springfield, MO 65806",NULL,NULL,NULL,0,NONE,true
+Lakeside Auto Glass,"88 Lakeshore Dr, Madison, WI 53703",NULL,NULL,NULL,0,NONE,true
+Ironclad Welding Shop,"1701 Foundry Rd, Pittsburgh, PA 15201",NULL,NULL,NULL,0,NONE,true
+Coastal Breeze Pool Service,"233 Seagrape Way, Sarasota, FL 34236",NULL,NULL,NULL,0,NONE,true
+Redwood Cabinetry,"509 Timber Ct, Eugene, OR 97401",NULL,NULL,NULL,0,NONE,true
+Anchor Marine Supply,"17 Wharf St, Portland, ME 04101",NULL,NULL,NULL,0,NONE,true
+Desert Sky Solar,"4400 Sunray Dr, Tucson, AZ 85706",NULL,NULL,NULL,0,NONE,true
+Brookside Veterinary Clinic,"760 Willow Bend, Chattanooga, TN 37402",NULL,NULL,NULL,0,NONE,true
+Cornerstone Masonry,"311 Brickyard Ln, Wichita, KS 67202",NULL,NULL,NULL,0,NONE,true
+Velvet Thread Tailoring,"55 Garment Row, Allentown, PA 18101",NULL,NULL,NULL,0,NONE,true
+Frontier Towing & Recovery,"9201 Range Rd, Cheyenne, WY 82001",NULL,NULL,NULL,0,NONE,true
+Blue Heron Landscaping,"144 Marsh View Dr, Charleston, SC 29401",NULL,NULL,NULL,0,NONE,true
+Ace Mobile Locksmith,"27 Keystone Ave, Toledo, OH 43604",NULL,NULL,NULL,0,NONE,true
+Maple Leaf Bakery,"612 Baker St, Burlington, VT 05401",NULL,NULL,NULL,0,NONE,true
+Granite Peak Surveying,"800 Summit Rd, Helena, MT 59601",NULL,NULL,NULL,0,NONE,true
+Tidewater Plumbing & Heating,"45 Estuary Ln, Norfolk, VA 23510",NULL,NULL,NULL,0,NONE,true
+Sierra Vista Auto Body,"3320 Foothill Dr, Fresno, CA 93720",NULL,NULL,NULL,0,NONE,true
+Hometown Hardware Co,"19 Main St, Dubuque, IA 52001",NULL,NULL,NULL,0,NONE,true
+Evergreen Tree Care,"507 Cedar Hollow, Spokane, WA 99201",NULL,NULL,NULL,0,NONE,true
+Liberty Sign & Awning,"1290 Freedom Blvd, Allen, TX 75002",NULL,NULL,NULL,0,NONE,true
+Crescent Moon Cafe,"73 Bourbon Walk, Lafayette, LA 70501",NULL,NULL,NULL,0,NONE,true
