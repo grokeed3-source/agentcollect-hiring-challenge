@@ -1,31 +1,31 @@
-company_name,mailing_address,contact_name,contact_role,contact_email_or_phone,confidence_score,source,needs_human_review
-Cedar Ridge Plumbing LLC,"4821 Maple Ave, Lincoln, NE 68504",NULL,NULL,NULL,0,NONE,true
-Bayview Auto Repair,"129 Harbor St, Tacoma, WA 98402",NULL,NULL,NULL,0,NONE,true
-Sunbelt Roofing Co,"7714 Desert Bloom Rd, Mesa, AZ 85207",NULL,NULL,NULL,0,NONE,true
-Riverside Print & Sign,"302 W 3rd St, Davenport, IA 52801",NULL,NULL,NULL,0,NONE,true
-Magnolia Family Dental,"1188 Peachtree Ln, Macon, GA 31201",NULL,NULL,NULL,0,NONE,true
-Northgate HVAC Services,"56 Industrial Pkwy, Akron, OH 44310",NULL,NULL,NULL,0,NONE,true
-Pioneer Landscaping Inc,"940 Prairie View Dr, Boise, ID 83704",NULL,NULL,NULL,0,NONE,true
-Harbor Light Electric,"22 Dockside Ave, New Bedford, MA 02740",NULL,NULL,NULL,0,NONE,true
-Summit Pest Control,"6310 Highland Blvd, Reno, NV 89506",NULL,NULL,NULL,0,NONE,true
-Greenfield Catering Group,"415 Orchard St, Springfield, MO 65806",NULL,NULL,NULL,0,NONE,true
-Lakeside Auto Glass,"88 Lakeshore Dr, Madison, WI 53703",NULL,NULL,NULL,0,NONE,true
-Ironclad Welding Shop,"1701 Foundry Rd, Pittsburgh, PA 15201",NULL,NULL,NULL,0,NONE,true
-Coastal Breeze Pool Service,"233 Seagrape Way, Sarasota, FL 34236",NULL,NULL,NULL,0,NONE,true
-Redwood Cabinetry,"509 Timber Ct, Eugene, OR 97401",NULL,NULL,NULL,0,NONE,true
-Anchor Marine Supply,"17 Wharf St, Portland, ME 04101",NULL,NULL,NULL,0,NONE,true
-Desert Sky Solar,"4400 Sunray Dr, Tucson, AZ 85706",NULL,NULL,NULL,0,NONE,true
-Brookside Veterinary Clinic,"760 Willow Bend, Chattanooga, TN 37402",NULL,NULL,NULL,0,NONE,true
-Cornerstone Masonry,"311 Brickyard Ln, Wichita, KS 67202",NULL,NULL,NULL,0,NONE,true
-Velvet Thread Tailoring,"55 Garment Row, Allentown, PA 18101",NULL,NULL,NULL,0,NONE,true
-Frontier Towing & Recovery,"9201 Range Rd, Cheyenne, WY 82001",NULL,NULL,NULL,0,NONE,true
-Blue Heron Landscaping,"144 Marsh View Dr, Charleston, SC 29401",NULL,NULL,NULL,0,NONE,true
-Ace Mobile Locksmith,"27 Keystone Ave, Toledo, OH 43604",NULL,NULL,NULL,0,NONE,true
-Maple Leaf Bakery,"612 Baker St, Burlington, VT 05401",NULL,NULL,NULL,0,NONE,true
-Granite Peak Surveying,"800 Summit Rd, Helena, MT 59601",NULL,NULL,NULL,0,NONE,true
-Tidewater Plumbing & Heating,"45 Estuary Ln, Norfolk, VA 23510",NULL,NULL,NULL,0,NONE,true
-Sierra Vista Auto Body,"3320 Foothill Dr, Fresno, CA 93720",NULL,NULL,NULL,0,NONE,true
-Hometown Hardware Co,"19 Main St, Dubuque, IA 52001",NULL,NULL,NULL,0,NONE,true
-Evergreen Tree Care,"507 Cedar Hollow, Spokane, WA 99201",NULL,NULL,NULL,0,NONE,true
-Liberty Sign & Awning,"1290 Freedom Blvd, Allen, TX 75002",NULL,NULL,NULL,0,NONE,true
-Crescent Moon Cafe,"73 Bourbon Walk, Lafayette, LA 70501",NULL,NULL,NULL,0,NONE,true
+company_name;mailing_address;contact_name;contact_role;contact_email_or_phone;confidence_score;source;needs_human_review
+Cedar Ridge Plumbing LLC;4821 Maple Ave, Lincoln, NE 68504;Daniel Ortega;Owner;d.ortega@cedarridgeplumbing.com;90;registry[name,role], enrichment[email], listing[phone];false
+Bayview Auto Repair;129 Harbor St, Tacoma, WA 98402;Karen Liu;Owner;karen@bayviewauto.com;90;registry[name,role], enrichment[email], enrichment[phone];false
+Sunbelt Roofing Co;7714 Desert Bloom Rd, Mesa, AZ 85207;;;;90;enrichment[email], listing[phone];true
+Riverside Print & Sign;302 W 3rd St, Davenport, IA 52801;;;;45;enrichment[email];true
+Magnolia Family Dental;1188 Peachtree Ln, Macon, GA 31201;Dr. Patel;Designated Contact;;45;listing[name,role], listing[phone];true
+Northgate HVAC Services;56 Industrial Pkwy, Akron, OH 44310;Thomas Reed;Registered Agent;;0;registry[name,role];true
+Pioneer Landscaping Inc;940 Prairie View Dr, Boise, ID 83704;Maria Gomez;President;maria@pioneerlandscaping.com;90;registry[name,role], enrichment[email], listing[phone];false
+Harbor Light Electric;22 Dockside Ave, New Bedford, MA 02740;Sean Murphy;Owner;+1-508-555-0160;80;registry[name,role], listing[phone];false
+Summit Pest Control;6310 Highland Blvd, Reno, NV 89506;;;;45;enrichment[email];true
+Greenfield Catering Group;415 Orchard St, Springfield, MO 65806;Angela Brooks;Owner;a.brooks@greenfieldcater.com;90;registry[name,role], enrichment[email], enrichment[phone];false
+Lakeside Auto Glass;88 Lakeshore Dr, Madison, WI 53703;Jeff (manager);Designated Contact;jeff@lakesideglass.net;90;listing[name,role], enrichment[email], listing[phone];false
+Ironclad Welding Shop;1701 Foundry Rd, Pittsburgh, PA 15201;Robert Kowalski;Owner;bob@ironcladweld.com;90;registry[name,role], enrichment[email], listing[phone];false
+Coastal Breeze Pool Service;233 Seagrape Way, Sarasota, FL 34236;Tina Alvarez;Manager;+1-941-555-0146;80;registry[name,role], listing[phone];false
+Redwood Cabinetry;509 Timber Ct, Eugene, OR 97401;;;;0;NONE;true
+Anchor Marine Supply;17 Wharf St, Portland, ME 04101;;;;55;enrichment[email], enrichment[phone];true
+Desert Sky Solar;4400 Sunray Dr, Tucson, AZ 85706;;;;0;NONE;true
+Brookside Veterinary Clinic;760 Willow Bend, Chattanooga, TN 37402;Dr. Emily Hart;Owner;emily.hart@brooksidevet.com;90;registry[name,role], enrichment[email], listing[phone];false
+Cornerstone Masonry;311 Brickyard Ln, Wichita, KS 67202;;;;0;NONE;true
+Velvet Thread Tailoring;55 Garment Row, Allentown, PA 18101;;;;0;NONE;true
+Frontier Towing & Recovery;9201 Range Rd, Cheyenne, WY 82001;;;;0;NONE;true
+Blue Heron Landscaping;144 Marsh View Dr, Charleston, SC 29401;;;;0;NONE;true
+Ace Mobile Locksmith;27 Keystone Ave, Toledo, OH 43604;;;;0;NONE;true
+Maple Leaf Bakery;612 Baker St, Burlington, VT 05401;;;;45;listing[phone];true
+Granite Peak Surveying;800 Summit Rd, Helena, MT 59601;;;;0;NONE;true
+Tidewater Plumbing & Heating;45 Estuary Ln, Norfolk, VA 23510;George Whitfield;Owner;g.whitfield@tidewaterph.com;90;registry[name,role], enrichment[email], enrichment[phone];false
+Sierra Vista Auto Body;3320 Foothill Dr, Fresno, CA 93720;;;;0;NONE;true
+Hometown Hardware Co;19 Main St, Dubuque, IA 52001;;;;45;enrichment[email];true
+Evergreen Tree Care;507 Cedar Hollow, Spokane, WA 99201;;;;0;NONE;true
+Liberty Sign & Awning;1290 Freedom Blvd, Allen, TX 75002;;;;0;NONE;true
+Crescent Moon Cafe;73 Bourbon Walk, Lafayette, LA 70501;;;;0;NONE;true
